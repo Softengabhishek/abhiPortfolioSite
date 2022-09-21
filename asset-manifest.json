@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.css": "/abhiportfoliosite/static/css/main.410220c7.css",
+    "main.js": "/abhiportfoliosite/static/js/main.8288d70f.js",
+    "static/media/about.jpg": "/abhiportfoliosite/static/media/about.70320286302c1685bf66.jpg",
+    "static/media/profile.jpg": "/abhiportfoliosite/static/media/profile.5750e3f0c36f0042f6a7.jpg",
+    "static/media/testimonial3.png": "/abhiportfoliosite/static/media/testimonial3.2e18bfe27c6d2e2e9fdc.png",
+    "static/media/testimonial2.png": "/abhiportfoliosite/static/media/testimonial2.39a53f7f092f07f5bceb.png",
+    "static/media/testimonial1.png": "/abhiportfoliosite/static/media/testimonial1.89079c1d25f2c94ceb89.png",
+    "static/media/John-Cv.pdf": "/abhiportfoliosite/static/media/John-Cv.e83747cf513e0b21a7f1.pdf",
+    "index.html": "/abhiportfoliosite/index.html",
+    "main.410220c7.css.map": "/abhiportfoliosite/static/css/main.410220c7.css.map",
+    "main.8288d70f.js.map": "/abhiportfoliosite/static/js/main.8288d70f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.410220c7.css",
+    "static/js/main.8288d70f.js"
+  ]
+}
